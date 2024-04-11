@@ -1,4 +1,4 @@
-# GuraLeak HSR Assets-2.1.5
+# GuraLeak HSR TextMap
 ![Alt text](iKun.jpg)
 
 # 成王败寇，伴坤永行！
